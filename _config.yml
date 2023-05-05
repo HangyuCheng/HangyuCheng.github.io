@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noah Hangyu Cheng/ Site Title"
+title                    : "Hangyu Cheng/ Site Title"
 title_separator          : "-"
-name                     : &name "Noah Hangyu Cheng"
+name                     : &name "Hangyu Cheng"
 description              : &description "personal description"
 url                      : https://HangyuCheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah Hangyu Cheng"
+  name             : "Hangyu Cheng"
   avatar           : "profile_Noah.jpg"
   bio              : "Master's student majoring in Software Engineering"
   location         : "Location"
