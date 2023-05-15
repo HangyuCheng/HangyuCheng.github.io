@@ -13,7 +13,7 @@ Hi ! I am **Hangyu Cheng**, a second-year master student at Hunan University of 
 ## Research Interest
 * Business Process Management
 * Process Modeling
-* Information Systems
+* Process Mining
 
 ## Publications
 - Jiayan Xiang, Guosheng Kang*, **Hangyu Cheng**, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. Electronics, Vol. 12, No. 4, pp. 991-1008, 2023. 
