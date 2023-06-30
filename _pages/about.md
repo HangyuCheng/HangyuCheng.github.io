@@ -11,9 +11,9 @@ redirect_from:
 Hi ! I am **Hangyu Cheng**, a second-year master student at Hunan University of Science and Technology.
 
 ## Research Interest
-* Business Process Management
 * Process Modeling
 * Process Mining
+* Natural Language Processing
 
 ## Publications
 
