@@ -23,4 +23,7 @@ Hi ! I am **Hangyu Cheng**, a second-year master student at Hunan University of 
 - Jiayan Xiang, Guosheng Kang*, **Hangyu Cheng**, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. Electronics, Vol. 12, No. 4, pp. 991-1008, 2023. 
 - Yang Wang, Jiayan Xiang, **Hangyu Cheng**, Wanjun Chen, Yong Xiao, Guosheng Kang*. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. International Conference on Computer Supported Cooperative Work in Design. 2023, Accepted
 
+## Copyrights
 
+-  康国胜, **程航宇**, 刘建勋, 文一凭. BPMN++一种基于BPMN扩展的业务流程建模工具软件, 2023.03.30, 计算机软件著作权, 登记号: 2023SR0417971, 中华人民共和国国家版权局
+-  康国胜, 梁博文, 肖勇, **程航宇**. 面向ProgrammableWeb网站的Web服务爬虫系统, 2022.07.28, 计算机软件著作权, 登记号: 2022SR0974413, 中华人民共和国国家版权局
