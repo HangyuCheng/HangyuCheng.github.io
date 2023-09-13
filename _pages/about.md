@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I am **Hangyu Cheng**, a second-year master student at Hunan University of Science and Technology.
+Hi ! I am **Hangyu Cheng**, a third-year master student at Hunan University of Science and Technology.
 
 ## Research Interest
 * Process Modeling
