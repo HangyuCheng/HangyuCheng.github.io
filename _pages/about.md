@@ -17,7 +17,7 @@ Hi ! I am **Hangyu Cheng**, I'm a first-year Ph.D. candidate at Xi'an Jiaotong U
 
 
 ## Publications
-- Guosheng Kang, **Hangyu Cheng***, Jianxun Liu, Yiping Wen, and Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. IEEE Transactions on Automation Science and Engineering, 2024. DOI: 10.1109/TASE.2024.3354929
+- Guosheng Kang, **Hangyu Cheng***, Jianxun Liu*, Yiping Wen, and Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. IEEE Transactions on Automation Science and Engineering, 2024. DOI: 10.1109/TASE.2024.3354929
 - **Hangyu Cheng**, Guosheng Kang*, Jianxun Liu, Yiping Wen, Buqing Cao, Zhen Wang. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. International Symposium on Parallel and Distributed Processing with Applications. IEEE Computer Society, pp. 548-555, 2022.
 - **Hangyu Cheng**, Guosheng Kang*, Jianxun Liu, Yiping Wen, Buqing Cao, Bowen Liang. Task-role Performance Evaluation via Business Process Monitoring with BPMN Extension. International Conference on Service Science. IEEE Computer Society, pp. 181-187, 2022. (Best Student Paper Award) 
 - **程航宇**, 康国胜*, 刘建勋, 文一凭, 曹步清, 王祯. 基于BPMN的业务流程建模元素扩展机制. 计算机集成制造系统 2023: 1-12.
