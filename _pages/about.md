@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I am **Hangyu Cheng**, I'm a first-year Ph.D. candidate at Xi'an Jiaotong University.
+Hi ! I am **Hangyu Cheng**, I'm a Ph.D. candidate at Xi'an Jiaotong University.
 
 ## Research Interest
 * Software defect prediction
